@@ -1,0 +1,9 @@
+[package]
+name = "order-book"
+version = "0.1.0"
+authors = ["Hiroki Tanaka <support@sencoinex.com>"]
+license = "MIT"
+repository = "https://github.com/sencoinex/order-book"
+edition = "2021"
+
+[dependencies]
